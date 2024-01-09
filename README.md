@@ -2,11 +2,11 @@
 -----
 ### Final Boss   
 
-| Max HP  | Attack   | Support      |
-| :-----: | :------: | :----------: |
-| 225 HP  | - 16 HP  | + 50 HP      |
-|         |          | Self-cast    |
-|         |          | last 2 turns |  
+| Max HP  | Attack   | Support      | Special |
+| :-----: | :------: | :----------: | Resource : Essence |
+| 225 HP  | Rock Smash  | + 50 HP   | Rock Pillar |
+|         | - 16 HP  | Self-cast    | - 20 HP on all players |
+|         |          | last 2 turns | - 30 Essence |
 
 **_Max HP_** : 225    
 **_Attack Skill_** : Rock Smash     

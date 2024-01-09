@@ -2,11 +2,11 @@
 -----
 ### Final Boss   
 
-| Max HP ->     | 225 HP   | Right Align  |
-| :-----------: | :------: | :----------: |
-| Attack ->     | - 16 HP  | MySQL        |
-| Support ->    | + 50 HP  | MongoDB      |
-| Special ->    | - 20HP   | Redis        |  
+| Max HP  | Attack   | Support      |
+| :-----: | :------: | :----------: |
+| 225 HP  | - 16 HP  | + 50 HP      |
+|         |          | Self-cast    |
+|         |          | last 2 turns |  
 
 **_Max HP_** : 225    
 **_Attack Skill_** : Rock Smash     

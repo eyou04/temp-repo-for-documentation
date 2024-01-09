@@ -1,7 +1,7 @@
 # Classes 
 -----
 ### Final Boss 
-_Max HP_ : 225 
+_Max HP_ : 225 \n
 _Attack Skill_ : Rock Smash
   - _Attack Damage_ : - 16 
   * Single Target

@@ -1,6 +1,13 @@
 # Classes 
 -----
-### Final Boss 
+### Final Boss   
+
+| Max HP ->     | 225 HP   | Right Align  |
+| :-----------: | :------: | :----------: |
+| Attack ->     | - 16 HP  | MySQL        |
+| Support ->    | + 50 HP  | MongoDB      |
+| Special ->    | - 20HP   | Redis        |  
+
 **_Max HP_** : 225    
 **_Attack Skill_** : Rock Smash     
     - __Attack Damage__ : - 16     

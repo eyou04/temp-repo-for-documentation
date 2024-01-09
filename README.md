@@ -4,7 +4,7 @@
 **_Max HP_** : 225    
 **_Attack Skill_** : Rock Smash     
     - __Attack Damage__ : - 16     
-    * Single Target      
+    - Single Target      
 **_Support Skill_** : Fortification    
     - __Support Stats__ : + 50 HP       
     * Self-casting     

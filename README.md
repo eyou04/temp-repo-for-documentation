@@ -5,7 +5,7 @@ _Max HP_ : 225
 _Attack Skill_ : Rock Smash
   - _Attack Damage_ : - 16 
   * Single Target
-_Support Skill_ : Fortification
+Support Skill : Fortification
   - _Support Stats_ : + 50 HP
   * Self-casting
   + Last 2 turns

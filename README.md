@@ -2,12 +2,12 @@
 -----
 ### Final Boss   
 
-| Max HP  | Attack      | Support      | Special                |
-| :-----: | :------:    | :----------: | :--------------------: |   
-| 225 HP  | Rock Smash  | Fortifitcaiton | Resource : Essence     |
-|         | - 16 HP     | + 50 HP      | Rock Pillar            |
-|         |             | Self-cast    | - 20 HP on all players |
-|         |             | last 2 turns | - 30 Essence           |
+| Max HP  | Attack      | Support        | Special                |
+| :-----: | :------:    | :----------:   | :--------------------: |   
+| 225 HP  | Rock Smash  | Fortifitcaiton | Rock Pillar            |
+|         | - 16 HP     | + 50 HP        | Resource : Essence     |
+|         |             | Self-cast      | - 20 HP on all players |
+|         |             | last 2 turns   | - 30 Essence           |
 
 **_Max HP_** : 225    
 **_Attack Skill_** : Rock Smash     

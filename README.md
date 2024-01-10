@@ -16,8 +16,8 @@
 | 150 HP  | Shield Bash   | Morale Shout          | Head Butt                 |
 |         | - 5 HP        | + 5 HP                | Resource : Stamina        |
 |         | Gorup Target  | + 1 Damage            | Single Target : - 15 HP   |
-|         |               |+ 10 Special Resource  | - 10 Stamina              |
-|         |               | Group Targe           | Group Target : - 8 HP     |
+|         |               | + 10 Special Resource | - 10 Stamina              |
+|         |               | Group Target          | Group Target : - 8 HP     |
 |         |               |                       | - 20 Stamina              |
 
 ### Alchemist   

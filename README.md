@@ -23,6 +23,6 @@
 | Max HP  | Attack        | Support                                                       | Special                                            |
 | :-----: | :------:      | :----------:                                                  | :--------------------:                             |   
 | 100 HP  | Rock Throw    | Healing Spell                                                 | Resurrection                                       |
-|         | - 1 HP        | Single Target : + 10 HP ( + 20 HP if player is under 10 HP)   | Resource : Mana (Max of 100)                       |
-|         | Single Target | Group Target : + 7 HP for all players                         | + 100 HP on a single target (Requirement : HP < 0) |
+|         | - 1 HP        | Single Target : + 10 HP      ( + 20 HP if player is under 10 HP)   | Resource : Mana (Max of 100)                       |
+|         | Single Target | Group Target : + 7 HP for all players                         | + 100 HP on a single target      (Requirement : HP < 0) |
 |         |               |                                                               | - 50 Mana                                          |
